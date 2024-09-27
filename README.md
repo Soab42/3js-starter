@@ -29,7 +29,7 @@ This project is a modern, interactive 3D portfolio website built using React, Th
 2. Install dependencies:
 
    ```
-   cd 3js-starter
+   cd 3d-portfolio-website
    npm install
    ```
 
@@ -62,3 +62,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+This project was inspired by [Adrian Hajdin's 3D Portfolio](https://github.com/adrianhajdin/3dportfolio). Special thanks to Adrian for the creative inspiration and implementation ideas.
+
+Key features adapted and expanded upon:
+
+- 3D character model integration using Three.js and React Three Fiber
+- Responsive design for various screen sizes
+- Interactive animations for the 3D model
+- Clean and modern UI using Tailwind CSS
+
+While this project shares some conceptual similarities, it has been built from the ground up with custom implementations, additional features, and personal touches to create a unique portfolio experience.
