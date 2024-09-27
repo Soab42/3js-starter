@@ -65,8 +65,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-## Acknowledgements
-
 This project was inspired by [Adrian Hajdin's 3D Portfolio](https://github.com/adrianhajdin/threejs-portfolio). Special thanks to Adrian for the creative inspiration and implementation ideas.
 
 Key features adapted and expanded upon:
