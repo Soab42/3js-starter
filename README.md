@@ -29,7 +29,7 @@ This project is a modern, interactive 3D portfolio website built using React, Th
 2. Install dependencies:
 
    ```
-   cd 3d-portfolio-website
+   cd 3js-starter
    npm install
    ```
 
